@@ -1,6 +1,6 @@
 # Advantage Demo
 
-Este é o projeto de automação de testes que criei para a avaliação do Advantage Online Shopping. O meu foco principal aqui foi entregar um código limpo, de fácil manutenção e sem testes intermitentes.
+Este é o projeto de automação de testes que criei para a avaliação. O meu foco principal aqui foi entregar um código limpo, de fácil manutenção e sem testes intermitentes.
 
 ## 🛠️ Stack Utilizada
 * Java + Selenium WebDriver
