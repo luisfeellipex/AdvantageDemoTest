@@ -23,13 +23,3 @@ Para resolver isso e garantir a estabilidade dos cenários:
 
 * Criei esperas explícitas diretamente no método de clique genérico da `CommonPage`. O código sempre verifica se o *loader* desapareceu antes de tentar clicar em qualquer elemento.
 * Já para o *popup* eu adicionei essa espera ao método do login. Assim a espera aguarda o elemento ficar totalmente invisível antes de prosseguir ao próximo passo.
-
-## 🚀 Como rodar o projeto
-1. Clone este repositório.
-2. Certifique-se de que possui o Java e o Maven configurados nas variáveis de ambiente da sua máquina.
-3. Abra o terminal na pasta raiz do projeto e execute o comando:
-
-```bash
-mvn test
-```
-4. Ao finalizar a execução, o relatório com as evidências de sucesso ou falha será gerado no diretório target/reports. Basta abrir o arquivo HTML correspondente no seu navegador.
