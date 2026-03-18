@@ -1,4 +1,4 @@
-# Advantage Demo
+# Advantage Demo Test
 
 Este é o projeto de automação de testes que criei para a avaliação. O meu foco principal aqui foi entregar um código limpo, de fácil manutenção e sem testes intermitentes.
 
